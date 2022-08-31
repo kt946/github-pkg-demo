@@ -1,0 +1,20 @@
+{
+  "name": "github-pkg-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kt946/github-pkg-demo.git1~.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kt946/github-pkg-demo.git1~/issues"
+  },
+  "homepage": "https://github.com/kt946/github-pkg-demo.git1~#readme"
+}
